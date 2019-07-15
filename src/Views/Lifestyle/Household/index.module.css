@@ -1,0 +1,36 @@
+.banner_img{
+    width: 100%;
+    display: block;
+}
+.banner_box{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    bottom: 1.626667rem;
+}
+.banner_box h3{
+    
+        margin-bottom: .08rem;
+        line-height: .84rem;
+        font-size: .693333rem;
+        font-weight: 700;
+        color: #ffffff;
+        cursor: pointer;
+}
+.banner_box h4{
+    line-height: .533333rem;
+    font-size: .373333rem;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+.banner_box p{
+    line-height: .533333rem;
+    font-size: .373333rem;
+    color: #ffffff;
+    cursor: pointer;
+
+}
